@@ -18,3 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0229-majority-element-ii) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0633-sum-of-square-numbers) |
