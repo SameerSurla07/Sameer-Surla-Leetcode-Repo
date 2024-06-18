@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0229-majority-element-ii) |
+| [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
 # Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0229-majority-element-ii) |
+| [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
 # Counting
 |  |
 | ------- |
@@ -29,7 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0015-3sum) |
 | [0633-sum-of-square-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
 # Binary Search
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
+# Greedy
+|  |
+| ------- |
+| [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
