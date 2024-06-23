@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0525-contiguous-array) |
 | [0853-most-profit-assigning-work](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0853-most-profit-assigning-work) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Hash Table
 |  |
 | ------- |
@@ -52,3 +53,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0525-contiguous-array) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Sliding Window
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
