@@ -73,3 +73,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
+## Hash Table
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
+<!---LeetCode Topics End-->
