@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -91,4 +92,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
