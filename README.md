@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -121,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
