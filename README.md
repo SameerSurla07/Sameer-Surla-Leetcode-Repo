@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0035-search-insert-position) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
