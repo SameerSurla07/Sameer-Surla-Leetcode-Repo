@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0069-sqrtx) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
