@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 | [1803-average-waiting-time](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [1675-magnetic-force-between-two-balls](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
