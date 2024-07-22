@@ -1,28 +1,44 @@
-#User function Template for python3
-
 class MyQueue:
-    def __init__(self):
-        # Initialize an empty list to represent the queue
-        self.queue = []
-        
-    #Function to push an element x in a queue.
-    def push(self, x):
-         
-        #add code here
-        # Append the element to the end of the queue
-        self.queue.append(x)
-    
-    #Function to pop an element from queue and return that element.
-    def pop(self): 
-         
-        # add code here
-        # If the queue is not empty, pop the front element
-        if self.queue:
-            return self.queue.pop(0)
-        # If the queue is empty, return -1
-        else:
-            return -1
+    def __init__(self, max_size=100000):
+        self.max_size = max_size
+        self.queue = [0] * self.max_size
+        self.start = 0
+        self.end = 0
+        self.curr_size = 0
 
+    # Function to push an element x into the queue
+    def push(self, x):
+        if self.curr_size == self.max_size:
+            return "Queue is full"
+        
+        self.queue[self.end] = x
+        self.end = (self.end + 1) % self.max_size
+        self.curr_size += 1
+
+    # Function to pop an element from the queue and return that element
+    def pop(self):
+        if self.curr_size == 0:
+            return -1
+        
+        popped_element = self.queue[self.start]
+        self.start = (self.start + 1) % self.max_size
+        self.curr_size -= 1
+        return popped_element
+
+# Function to process a list of queries on the queue
+def process_queries(queries):
+    q = MyQueue()
+    results = []
+    
+    for query in queries:
+        if query[0] == 1:
+            # Push operation
+            q.push(query[1])
+        elif query[0] == 2:
+            # Pop operation
+            results.append(q.pop())
+    
+    return results
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
