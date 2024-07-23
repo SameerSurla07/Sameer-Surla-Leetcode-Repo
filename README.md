@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
@@ -186,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
