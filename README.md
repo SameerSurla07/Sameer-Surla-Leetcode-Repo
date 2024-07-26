@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -199,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2227-sum-of-subarray-ranges) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
