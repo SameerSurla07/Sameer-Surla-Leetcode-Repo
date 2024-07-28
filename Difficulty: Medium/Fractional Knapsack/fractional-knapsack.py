@@ -27,7 +27,7 @@ class Solution:
                 total_value += item.value
                 w -= item.weight
             else:
-                total_value += item.value * (w / item.weight)
+                total_value += w * ratio
                 w = 0
             
         return total_value
