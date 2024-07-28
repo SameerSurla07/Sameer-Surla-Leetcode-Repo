@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
