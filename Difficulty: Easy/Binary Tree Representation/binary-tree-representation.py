@@ -1,5 +1,5 @@
 #User function Template for python3
-class Node:
+class node:
     def __init__(self, val):
         self.data = val
         self.left = None
@@ -8,23 +8,33 @@ class Node:
 class Solution:
     def createTree(self, root, l):
         # Code here
-        if len(l) != 7:
-            return
-        
-        # Create a list of nodes
-        nodes = [Node(val) for val in l]
+        if not l:
+            return None
+       
+        # Initialize the root with the first element of the list
+        root.data = l[0]
+        # Initialize a queue with the root node
+        queue = [root] 
 
-        # Assign the left and right children for each node
-        root.left = nodes[1]
-        root.right = nodes[2]
-        
-        root.left.left = nodes[3]
-        root.left.right = nodes[4]
-        
-        root.right.left = nodes[5]
-        root.right.right = nodes[6]
-
+        i = 1 # Start from 2nd element of the list
+        while i < len(l): 
+            current = queue.pop(0) # Get the current node from the queue
+            
+            # Assign the left child
+            if i < len(l):
+                current.left = node(l[i])
+                queue.append(current.left)
+                i += 1
+                
+            # Assign the right child
+            if i < len(l):
+                current.right = node(l[i])
+                queue.append(current.right)
+                i += 1
+            
         return root
+        
+        
 
 #{ 
  # Driver Code Starts
