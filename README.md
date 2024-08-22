@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
+| [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
+| [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
