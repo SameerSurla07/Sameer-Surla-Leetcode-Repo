@@ -11,6 +11,7 @@ class Solution:
             if parent[u] != u:
                 parent[u] = find(parent[u])
             return parent[u]
+        
             
         # Function to perform union by rank
         def union(x,y):
@@ -38,26 +39,6 @@ class Solution:
                         union(root_u,root_v)
                         
         return 0
-                        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
         
         
@@ -82,17 +63,17 @@ class Solution:
             
         #     return False
     
-        # Array to keep track of visited nodes
-        visited = [False] * V
+        # # Array to keep track of visited nodes
+        # visited = [False] * V
         
-        # Iterate through each node in the graph
-        for i in range(V):
-            # If the node is not yet visited, perform DFS from this node
-            if not visited[i]:
-                if dfs(i, -1):
-                    return 1  # If a cycle is detected during DFS, return 1
+        # # Iterate through each node in the graph
+        # for i in range(V):
+        #     # If the node is not yet visited, perform DFS from this node
+        #     if not visited[i]:
+        #         if dfs(i, -1):
+        #             return 1  # If a cycle is detected during DFS, return 1
                     
-        return 0  # If no cycle is detected, return 0
+        # return 0  # If no cycle is detected, return 0
 
 
 
