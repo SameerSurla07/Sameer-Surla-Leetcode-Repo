@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -226,4 +227,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
