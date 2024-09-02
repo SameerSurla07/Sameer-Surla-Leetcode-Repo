@@ -35,8 +35,6 @@ class Solution:
                     unique_islands.add(frozenset(path))
             
         return len(unique_islands)
-                    
-
 
 
 
