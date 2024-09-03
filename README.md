@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
 | [0735-asteroid-collision](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
 | [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1675-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
+| [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
 <!---LeetCode Topics End-->
