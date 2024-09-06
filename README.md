@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -217,10 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
