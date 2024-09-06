@@ -13,10 +13,10 @@ class Solution:
             dist[v][u] = w
 
         # Floyd-Warshall algorithm to compute shortest paths
-        for k in range(n):
+        for k in range(n):  # Intermediate node is k
             for i in range(n):
                 for j in range(n):
-                    if dist[i][j] > dist[i][k] + dist[k][j]:
+                    if dist[i][j] > dist[i][k] + dist[k][j]:  # i to k , then k to j
                         dist[i][j] = dist[i][k] + dist[k][j]
 
         # Find the city with the smallest number of reachable cities within the threshold
