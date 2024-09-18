@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
