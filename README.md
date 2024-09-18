@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0630-course-schedule-iii) |
 | [0735-asteroid-collision](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
+| [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Recursion
