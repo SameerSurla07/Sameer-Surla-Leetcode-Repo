@@ -10,6 +10,7 @@ class Solution:
                 if current >= n:
                     current //= 10
                 current += 1
-                while current % 10 == 0:
+                while current % 10 == 0 or current > n:
                     current //= 10
+
         return result
