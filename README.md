@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0386-lexicographical-numbers) |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0039-combination-sum) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
