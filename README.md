@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
