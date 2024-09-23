@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
+| [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0493-reverse-pairs) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
