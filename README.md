@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0386-lexicographical-numbers) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
