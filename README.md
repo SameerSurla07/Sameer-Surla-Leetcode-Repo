@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0416-partition-equal-subset-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0967-minimum-falling-path-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -255,16 +257,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0386-lexicographical-numbers) |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/SameerSurla07/Sameer-Surla-Leetcode-Repo/tree/master/0801-is-graph-bipartite) |
 ## Heap (Priority Queue)
 |  |
